@@ -26,3 +26,5 @@ const doMath = (x, y, z) => {
     return result;
 }
 
+console.log(doMath(10,20,30))
+

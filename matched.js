@@ -35,6 +35,6 @@ function matchedProducts (products, search){
     return matched;
 }
 
-const result = matchedProducts(products, 'laptop');
+const result = matchedProducts(products, 'laptOP');
 console.log(result);
 
